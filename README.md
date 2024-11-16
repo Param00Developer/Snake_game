@@ -10,8 +10,8 @@ A classic Snake game built using Python's Pygame library. Guide the snake to eat
 
 1. **Clone the project**:
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-directory>
+    git clone https://github.com/Param00Developer/Snake_game
+    cd Snake_game
     ```
 
 2. **Create a virtual environment**:
